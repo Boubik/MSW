@@ -1,6 +1,4 @@
-llvmlite==0.38.0
-mpmath==1.2.1
-numba==0.55.1
-numpy==1.21.6
-scipy==1.8.0
-sympy==1.10.1
+matplotlib==3.5.3
+numpy==1.23.3
+scipy==1.9.1
+pandas==1.4.4
